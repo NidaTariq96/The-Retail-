@@ -16,3 +16,6 @@
 # Build project 
   mvn clean install 
         
+# UML diagram and Sonar Cube reports are on project root
+    SonarQube report path : Backend Test- SonarQube Report.pdf
+    UML diagram : UML.png
